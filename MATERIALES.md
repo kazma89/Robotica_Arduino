@@ -1,0 +1,44 @@
+# Capacitación Arduino para Cisco Hackathon
+### Lista de componentes
+- [ ] Arduino UNO R3 (o similar) con cable USB.
+- [ ] Protoboard pequeña de al menos 8.3x5.5cm.
+- [ ] Cables jumpers macho/macho.
+- [ ] Cables jumpers macho/hembra.
+- [ ] 10x LEDs Rojos (u otro color) 5mm. 
+- [ ] 10x LEDs Azules (u otro color) 5mm.
+- [ ] 10x LEDs Amarillos (u otro color) 5mm.
+- [ ] 10x Resistencias 220Ω, 1kΩ 1/2W.
+- [ ] 3x Botones pulsadores pequeños 2 o 4 patas.
+- [ ] 4x Potenciometros 10KΩ.
+- [ ] Ventilador de computadora 12V.
+- [ ] 2x portabaterias 4xAA y 6 Baterias AA alcalinas.
+- [ ] Transistor de poder NPN MJ182 o similar.
+- [ ] Sensor ultrasonico HC-SR04.
+- [ ] Mini fotocelda (LDR).
+- [ ] Sensor de temperatura (TMP36 o similar).
+- [ ] Buzzer pasivo.
+- [ ] Display de 7 segmentos catodo común.
+- [ ] Display 7 segmentos 4 Digitos catodo común.
+- [ ] LED infrarrojo.
+- [ ] Receptor infrarrojo (TSOP382 o similiar).
+- [ ] 2X Relay 5V de entrada y 10A salida.
+- [ ] 2x Base de bombillo ceramico 120V.
+- [ ] 2x Bombillo 120V 7W.
+- [ ] Ventilador de 120V.
+- [ ] 1m cable TSJ 2x18 preferiblemente (o 2x16).
+- [ ] enchufe 2 polos.
+- [ ] 2x Motor 6V DC.
+- [ ] Driver dual de motor (L9110 o similiar). 
+- [ ] Dot Matriz LED 8x8.
+- [ ] 2x Modulo Joystick.
+- [ ] Shift register 8-bit (SN7HC595 o similar).
+- [ ] 4x Micro servomotores.
+- [ ] 4x Capacitores electroliticos 1000uF.
+- [ ] Display LCD 1602 (o similiar).
+- [ ] Modulo Bluetooth maestro/esclavo (HC-05 o similiar).
+- [ ] Multimetro digital que mida al menos resistencia, voltaje, corriente, continuidad y transistores (opcional pero recomendado).
+
+### Lugares sugeridos para comprar los componentes:
+- [ ] [CRCibernetica](http://www.crcibernetica.com) en Paseo Colon.
+- [ ] [MicroJPM](https://www.microjpm.com) en Cartago.
+- [ ] [Laboratorio.cr](http://laboratorio.cr/shop/) en el Mall San Pedro.
